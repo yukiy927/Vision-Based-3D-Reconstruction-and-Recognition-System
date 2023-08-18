@@ -1,5 +1,5 @@
 # Vision-Based-3D-Reconstruction-and-Recognition-System
-ECE188 Spring 2023 final project under Achuta Kadambi
+ECE188: Computer Vision, Spring 2023 final project under Achuta Kadambi
 
 This final project includes three stages:
 
