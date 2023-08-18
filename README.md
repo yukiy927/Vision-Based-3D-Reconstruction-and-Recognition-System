@@ -15,9 +15,8 @@ There are three kinds of noise and two of blur to be removed:
 - Gaussian blur
 - Motion blue
 
-And the benchmark give is as follows,
+And the benchmark (PSNR/SSIM Goalposts) give is as follows,
 
-- PSNR/SSIM Goalposts
 - Gaussian Blur: 20.5/0.65
 - Motion Blur: 21.5/0.70
 - Salt and Pepper noise: 26.5/0.90
